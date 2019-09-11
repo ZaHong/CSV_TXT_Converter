@@ -1,9 +1,9 @@
-## CSV2TXT 
+# CSV2TXT 
 
 Simple python script that can convert csv files into txt files
-using space to seperate different coloumns
+using space to seperate different columns
 
-#Usage
+## Usage
 
 On terminal:
 
@@ -13,11 +13,11 @@ On terminal:
 
     python3 txt2csv.py original_csv_file.csv destination_txt_file.txt
 
-##TXT2CSV
+# TXT2CSV
 
 Simple python script that can convert txt files into csv files 
 
-#Usage
+## Usage
 
 On terminal:
 
@@ -35,7 +35,7 @@ On terminal:
 
 ## Acknowledgments
 
-Manul on Pandas library and csv library
+Manual on Pandas library and csv library
 
 * Hat tip to anyone who helps me on this script
 * Inspiration
