@@ -6,7 +6,6 @@ def convert(csv_file, txt_file):
         with open(csv_file, "r") as input_file:
             for row in csv.reader(input_file):
                 output_file.write(" ".join(row)+'\n')
-        output_file.close()
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
